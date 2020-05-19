@@ -1,0 +1,1 @@
+# SkyWatcher-Virtuoso-Wifi-Adapter-RaspberriPi
